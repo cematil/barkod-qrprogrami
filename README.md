@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="logo.png" alt="Barkod & QR Kasa Otomasyonu Logo" width="120" height="120" />
+  <img src="logo.png" alt="Barkod & QR Kasa Otomasyonu Logo" width="250" height="250" />
 
   # 🚀 BARKOD & QR KASA VE STOK YÖNETİM OTOMASYONU
 
